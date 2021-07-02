@@ -1,2 +1,2 @@
 # simple-menu-python
-Simploe python interactive menu
+Simple python interactive menu
